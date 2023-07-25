@@ -37,7 +37,7 @@ Dato: El contenido a buscar debe de ser documentos .txt que se encuentren en la 
 
    Información extra: Si no se introduce ninguna consulta el buscador te informará que no has insertado ninguna consulta.
                       Si se utiliza el proyecto en Linux existe la posibilidad de que la dirección de la carpeta content se tenga que cambiar manualmente.
-*******************************************************************************************************************************************************************************
+***************************************************************************************************************************************************************************************
 *  DATOS EXTRAS A TENER EN CUENTA  *
 ************************************
 
