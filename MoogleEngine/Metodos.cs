@@ -5,7 +5,7 @@ public class Metodos
     /*Este metodo no recibe ningun parametro y devuelve un array string[] con las direcciones de cada documento*/
     public static string[] Direcciones()
     {
-        string direccion = @"..\Content";
+        string direccion = Path.Combine("..","Content");
         string[] direcciones = Directory.GetFiles(direccion, "*.txt");
         return direcciones;
     }
